@@ -1,0 +1,15 @@
+D:\C# Studies\LearnSomeShit\Vehicle\Vehicle\bin\Debug\net5.0\Vehicle.exe
+D:\C# Studies\LearnSomeShit\Vehicle\Vehicle\bin\Debug\net5.0\Vehicle.deps.json
+D:\C# Studies\LearnSomeShit\Vehicle\Vehicle\bin\Debug\net5.0\Vehicle.runtimeconfig.json
+D:\C# Studies\LearnSomeShit\Vehicle\Vehicle\bin\Debug\net5.0\Vehicle.runtimeconfig.dev.json
+D:\C# Studies\LearnSomeShit\Vehicle\Vehicle\bin\Debug\net5.0\Vehicle.dll
+D:\C# Studies\LearnSomeShit\Vehicle\Vehicle\bin\Debug\net5.0\ref\Vehicle.dll
+D:\C# Studies\LearnSomeShit\Vehicle\Vehicle\bin\Debug\net5.0\Vehicle.pdb
+D:\C# Studies\LearnSomeShit\Vehicle\Vehicle\obj\Debug\net5.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Studies\LearnSomeShit\Vehicle\Vehicle\obj\Debug\net5.0\Vehicle.AssemblyInfoInputs.cache
+D:\C# Studies\LearnSomeShit\Vehicle\Vehicle\obj\Debug\net5.0\Vehicle.AssemblyInfo.cs
+D:\C# Studies\LearnSomeShit\Vehicle\Vehicle\obj\Debug\net5.0\Vehicle.csproj.CoreCompileInputs.cache
+D:\C# Studies\LearnSomeShit\Vehicle\Vehicle\obj\Debug\net5.0\Vehicle.dll
+D:\C# Studies\LearnSomeShit\Vehicle\Vehicle\obj\Debug\net5.0\ref\Vehicle.dll
+D:\C# Studies\LearnSomeShit\Vehicle\Vehicle\obj\Debug\net5.0\Vehicle.pdb
+D:\C# Studies\LearnSomeShit\Vehicle\Vehicle\obj\Debug\net5.0\Vehicle.genruntimeconfig.cache
